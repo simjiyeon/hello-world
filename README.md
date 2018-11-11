@@ -8,9 +8,11 @@
 ![kakaotalk_20181105_153501995](https://user-images.githubusercontent.com/43903927/47982379-df7d6c80-e112-11e8-8cbc-1e97b61f3b4f.png)
 ![kakaotalk_20181105_153511300](https://user-images.githubusercontent.com/43903927/47982380-e0160300-e112-11e8-840a-6626e148b8a3.png)
 ![kakaotalk_20181105_153524539](https://user-images.githubusercontent.com/43903927/47982382-e1473000-e112-11e8-8673-39dc6674b16d.png)
-<필요한 부품>
-프로젝트명 : Smart Air Cleaner (공기청정기)
+
+프로젝명 : Smart Air Cleaner (공기청정기)
+
 필요한 부품 :
+
 [먼지센서 모듈 키트]
 http://www.devicemart.co.kr/1385013
 [5V 1채널 릴레이 모듈]
