@@ -13,35 +13,47 @@
 
 필요한 부품 :
 
-[먼지센서 모듈 키트]
-http://www.devicemart.co.kr/1385013
-[5V 1채널 릴레이 모듈]
-http://www.devicemart.co.kr/1383622
-[50mm 냉각팬]
-http://www.devicemart.co.kr/1078222
-[Arduino Uno (R3) 호환보드]
-http://www.devicemart.co.kr/1245596
+http://www.devicemart.co.kr/1385013 [먼지센서 모듈 키트]
+
+http://www.devicemart.co.kr/1383622 [5V 1채널 릴레이 모듈]
+
+http://www.devicemart.co.kr/1078222 [50mm 냉각팬]
+
+http://www.devicemart.co.kr/1245596 [Arduino Uno (R3) 호환보드]
+
 --------------------------------------------------------------------------------
 <10월 29일 이후 실습할 내용>
+
 1. 프로젝명 : Smart Air Cleaner(공기청정기)
+
 2. 금주 실습할 내용 :
+
 o 실습명 : 개발을 위한 개발환경 구축 및 자료조사
+
 o 실습절차 :
+
 가. Android Studio DownLoad &  JDK DownLoad
+
 나. 라즈베리파이와 안드로이드의 통신 방법 조사
+
 다. 라즈베리파이를 활용하여 아두이노 제어 조사
+
 3. 예상 결과 :
+
 환경 구축 완료 및 참고 자료를 통한 안드로이드 
 <-> 라즈베리 + 아두이노 통신 확인
+
 4. 관련 링크 :
-[안드로이드 스튜디오 다운로드]
-https://blog.naver.com/planetravel/221344546824
-[jdk 다운로드]
-https://m.blog.naver.com/since201109/221151124435
-[라즈베리 안드로이드 통신방법]
-https://www.youtube.com/watch?v=YxhB1bAtVnY
+
+https://blog.naver.com/planetravel/221344546824 [안드로이드 스튜디오 다운로드]
+
+https://m.blog.naver.com/since201109/221151124435 [jdk 다운로드]
+
+https://www.youtube.com/watch?v=YxhB1bAtVnY [라즈베리 안드로이드 통신방법]
+
 --------------------------------------------------------------------------------
 <11월 5일까지의 진도보고서>
+
 1. 프로젝명 : Smart Air Cleaner(공기청정기)
 2. 금주 실습한 내용 :
 o 실습명 : 개발을 위한 개발환경 구축 및 자료조사
