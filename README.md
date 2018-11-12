@@ -183,12 +183,11 @@ o 실습절차
 
 5. 관련 링크 
 
-ESP8266 활용 방법
-http://www.hardcopyworld.com/ngine/aduino/index.php/archives/1257
-아두이노 냉각팬 이용 
-http://www.makewith.co/page/project/308/story/1159/
-안드로이드 Http 통신
-http://mailmail.tistory.com/m/13
+http://www.hardcopyworld.com/ngine/aduino/index.php/archives/1257 [ESP8266 활용 방법]
+
+http://www.makewith.co/page/project/308/story/1159/ [아두이노 냉각팬 이용]
+
+http://mailmail.tistory.com/m/13 [안드로이드 Http 통신]
 
 
 => 교수님께서 추가 부품인 ESP8266 준비 해주셨음.!
