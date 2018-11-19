@@ -218,6 +218,12 @@ o 실습절차
 
 다. 릴레이 모듈을 활용해 팬을 동작 하려 했지만 팬이 동작하지 않아 문제점 파악중.
 
+![kakaotalk_20181120_072344858](https://user-images.githubusercontent.com/43903927/48739097-40ba4980-ec96-11e8-9f98-e5db85c110a3.jpg)
+
+![kakaotalk_20181120_072345122](https://user-images.githubusercontent.com/43903927/48739099-41eb7680-ec96-11e8-8fca-2c1ed00bc565.jpg)
+
+![kakaotalk_20181120_072345340](https://user-images.githubusercontent.com/43903927/48739104-431ca380-ec96-11e8-8f89-0729d2531550.jpg)
+
 4. 소감 및 질문 
 
 생각외에 문제들로 인하여 프로젝트 진행이 원활하게 진행되지 못하고 있다. 하지만 문제점을 찾아 해결하는 것에 흥미도 느낌.
