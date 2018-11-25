@@ -269,7 +269,7 @@ o 실습절차
 ![kakaotalk_20181125_223222134](https://user-images.githubusercontent.com/43903927/48980052-6ff21000-f107-11e8-81da-c7dad0ed1b75.jpg)
 ![kakaotalk_20181125_223313055](https://user-images.githubusercontent.com/43903927/48980053-71bbd380-f107-11e8-823f-6c2c7a5f2f19.jpg)
 ![kakaotalk_20181125_223725021](https://user-images.githubusercontent.com/43903927/48980055-77b1b480-f107-11e8-8e73-da3b72d405fe.png)
-![kakaotalk_20181125_223803052](https://user-images.githubusercontent.com/43903927/48980056-7a140e80-f107-11e8-9dd2-24
+![kakaotalk_20181125_223803052](https://user-images.githubusercontent.com/43903927/48980079-d7a85b00-f107-11e8-978d-47731c5bb3b9.png)
 ![kakaotalk_20181125_223825986](https://user-images.githubusercontent.com/43903927/48980057-7b453b80-f107-11e8-9869-f1293734f345.png)
 07b560956e.png)
 
