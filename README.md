@@ -339,3 +339,13 @@ o 실습절차
 
 
 관련 링크 https://qortn.tistory.com/202
+
+-----------------------------------------------------------------------------------------------------------------
+
+<12월 02일까지의 진도보고서> 
+
+![kakaotalk_20181202_221952240](https://user-images.githubusercontent.com/43903927/49340250-bbb13600-f680-11e8-94cb-05384b50041b.jpg)
+![kakaotalk_20181202_221952474](https://user-images.githubusercontent.com/43903927/49340251-be139000-f680-11e8-8717-efd36cd4e3d5.jpg)
+![kakaotalk_20181202_221952671](https://user-images.githubusercontent.com/43903927/49340252-bfdd5380-f680-11e8-8851-4023e6edc330.jpg)
+![kakaotalk_20181202_221952894](https://user-images.githubusercontent.com/43903927/49340253-c1a71700-f680-11e8-8f86-09c3782e88e5.jpg)
+![kakaotalk_20181202_221953101](https://user-images.githubusercontent.com/43903927/49340254-c370da80-f680-11e8-866a-764990180c4f.jpg)
