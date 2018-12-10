@@ -427,6 +427,11 @@ o 실습절차
 
 3. 결과
 
+![img_3098](https://user-images.githubusercontent.com/43903927/49710013-5b228a00-fc7a-11e8-8d9b-ecaef8a51620.JPG)
+![img_3099](https://user-images.githubusercontent.com/43903927/49710018-5d84e400-fc7a-11e8-80b6-1ee1fd17abc2.JPG)
+![img_3100](https://user-images.githubusercontent.com/43903927/49710021-5fe73e00-fc7a-11e8-8a80-7b78ddc82bed.JPG)
+![xobe2475](https://user-images.githubusercontent.com/43903927/49710022-61186b00-fc7a-11e8-90d8-2454e3b68fd1.JPG)
+
 • 현재 먼지센서로부터 먼지농도를 받아오는 것 까지는 완료.
 
 • 읽어들인 값을 안드로이드에 전달만 해주면 됨. C파일로 제작을 하여 라이브러리로 만든 후 파이썬에서 C를 호출하여 사용 할 예정.
