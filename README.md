@@ -472,4 +472,22 @@ o 실습절차
 
 http://vctec.co.kr/product/detail.html?product_no=11405&cate_no=83&display_group=1&cafe_mkt=naver_ks&mkt_in=Y&ghost_mall_id=naver&ref=naver_open&NaPm=ct%3Djphs1g40%7Cci%3D2d731c3b00e59b8a8e5a17287cc4631b86ec8fa2%7Ctr%3Dsls%7Csn%3D246260%7Chk%3Da6b5cb7ae87871337fb4d3a41426572164d3efc9
 
+--------------------------------------------------------------------------------------------------------------
+<12월 17일 발표 자료>
+<img width="960" alt="1" src="https://user-images.githubusercontent.com/43903927/50209677-ad208980-03b7-11e9-94b6-b1c6e9e96bd1.png">
+<img width="960" alt="2" src="https://user-images.githubusercontent.com/43903927/50209685-b01b7a00-03b7-11e9-9ff8-c9c764bbf1e3.png">
+<img width="960" alt="3" src="https://user-images.githubusercontent.com/43903927/50209688-b14ca700-03b7-11e9-8abf-ad8dc6fc1d89.png">
+<img width="960" alt="4" src="https://user-images.githubusercontent.com/43903927/50209690-b3166a80-03b7-11e9-955b-9bd7611cbd95.png">
+<img width="960" alt="5" src="https://user-images.githubusercontent.com/43903927/50209693-b4479780-03b7-11e9-90a9-7812242ad021.png">
+<img width="960" alt="6" src="https://user-images.githubusercontent.com/43903927/50209704-b9a4e200-03b7-11e9-9fcb-ecc2b498c227.png">
+<img width="960" alt="7" src="https://user-images.githubusercontent.com/43903927/50209705-bc073c00-03b7-11e9-844c-4c6a5a5d5d31.png">
+<img width="960" alt="8" src="https://user-images.githubusercontent.com/43903927/50209707-be699600-03b7-11e9-90a1-8d94786d6a1c.png">
+<img width="960" alt="9" src="https://user-images.githubusercontent.com/43903927/50209714-c0335980-03b7-11e9-946f-45692efd5e88.png">
+<img width="960" alt="10" src="https://user-images.githubusercontent.com/43903927/50209715-c1648680-03b7-11e9-9934-4286afbd28ab.png">
+<img width="960" alt="11" src="https://user-images.githubusercontent.com/43903927/50209720-c32e4a00-03b7-11e9-8321-a3c7c9f45f43.png">
+<img width="960" alt="12" src="https://user-images.githubusercontent.com/43903927/50209724-c45f7700-03b7-11e9-9ca7-0c94223c53ef.png">
+<img width="960" alt="13" src="https://user-images.githubusercontent.com/43903927/50209725-c6293a80-03b7-11e9-8cc2-468bb275bd61.png">
+<img width="960" alt="14" src="https://user-images.githubusercontent.com/43903927/50209728-c7f2fe00-03b7-11e9-8992-8eaefd71c9ff.png">
+<img width="960" alt="15" src="https://user-images.githubusercontent.com/43903927/50209731-c9bcc180-03b7-11e9-92d7-02bb2631f3bd.png">
+<img width="960" alt="16" src="https://user-images.githubusercontent.com/43903927/50209740-cde8df00-03b7-11e9-9420-1ae79d1a2fe8.png">
 
